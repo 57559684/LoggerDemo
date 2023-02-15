@@ -14,7 +14,6 @@ Support the setting of write log level
 The log format includes log level, log time, file name, line number information, thread ID, and function name
 
 Author: 57559684 2023-1-10
-
 If you have problems using this log library, you can send an email to <57559684@qq.com>
 
 Usage:
