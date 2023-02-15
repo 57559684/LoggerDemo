@@ -1,7 +1,12 @@
 # LoggerDemo
 CLogger Class,Win32
+
+
 /*
+
+
 //Class name: CLogger
+
 
 //Based on https://github.com/sunflover/LoggerDemo
 
