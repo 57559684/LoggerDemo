@@ -19,6 +19,23 @@ The log format includes log level, log time, file name, line number information,
 Author: 57559684 2023-1-10
 If you have problems using this log library, you can send an email to <57559684@qq.com>
 
+功能介绍：
+Win平台日志功能
+C语言变量参数格式输出日志
+日志以共享方式写入（可以在程序运行时查看日志）
+可以将不同模块的日志写到不同的文件中
+多线程安全
+支持写日志级别设置
+日志格式包括日志级别、日志时间、文件名、行号信息、线程ID、函数名
+
+作者：57559684 2023-1-10
+如果您在使用本日志库时遇到问题，可以发邮件至<57559684@qq.com>
+
+用法：
+1：在项目中添加logger.h和logger.cpp
+2：设置logger.cpp的预编译头选项为“不使用预编译头”
+3：使用代码示例：
+
 Usage:
 1: Add logger.h and logger.cpp to the project
 2: Set the precompiled header option of logger.cpp to "Do not use precompiled headers"
