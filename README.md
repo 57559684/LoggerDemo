@@ -6,23 +6,14 @@ CLogger Class,Win32
 
 
 //Class name: CLogger
-
 //Based on https://github.com/sunflover/LoggerDemo
-
 //Function introduction:
-
 //Win platform logging function
-
 //C language variable parameter format output log
-
 //Log writing in shared mode (you can view the log when the program is running)
-
 //You can write the logs of different modules to different files
-
 //Multi-threading safety
-
 //Support the setting of write log level
-
 //The log format includes log level, log time, file name, line number information, thread ID, and function name
 
 //Author: 57559684 2023-1-10
